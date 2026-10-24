@@ -21,7 +21,7 @@ A private Git repository exists for code, infrastructure, schemas, tests, and pu
 
 ## Acceptance criteria
 
-- [ ] Repository initialized with a clear name
+- [x] Repository initialized with a clear name
 - [ ] README explains project purpose and first vertical slice
 - [ ] `.gitignore` excludes `.env`, credentials, large local media, cache, and build artifacts
 - [ ] `.env.example` lists variable names only
@@ -30,8 +30,9 @@ A private Git repository exists for code, infrastructure, schemas, tests, and pu
 
 ## Evidence
 
-- Repository URL or local path:
-- Initial commit:
+- Repository URL or local path: https://github.com/wwwerk/dance-vision
+- Documentation (Obsidian): https://github.com/wwwerk/wwwerk-dance-vision-archive
+- Initial commit: https://github.com/wwwerk/dance-vision/commit/6d27a4429fc6a0ab07fdc36ecd703d9fef4b5779
 
 ## Linked notes
 

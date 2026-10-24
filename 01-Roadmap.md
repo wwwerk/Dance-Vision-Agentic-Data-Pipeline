@@ -36,7 +36,7 @@ tags:
 
 ### Exit criteria
 
-- [ ] Git repository exists with README, `.gitignore`, license decision, and environment template
+- [x] Git repository exists with README, `.gitignore`, license decision, and environment template
 - [x] Obsidian/Logseq vault structure is usable
 - [ ] B2 source, derived, annotation, and release prefixes are documented
 - [ ] Metadata schemas exist for videos, clips, runs, and consent status

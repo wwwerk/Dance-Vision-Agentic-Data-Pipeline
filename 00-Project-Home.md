@@ -47,7 +47,7 @@ Target: 2026-10-20
 
 ## Current next actions
 
-- [ ] [[T-001 Create Git repository and baseline project README]]
+- [x] [[T-001 Create Git repository and baseline project README]]
 - [ ] [[T-002 Create B2 storage-layout document and artifact naming policy]]
 - [ ] [[T-003 Define video, clip, run, and consent metadata schemas]]
 - [ ] [[T-004 Inventory 20 source videos using ffprobe metadata extraction]]

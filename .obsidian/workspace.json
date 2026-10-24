@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Roadmap.md",
+                "file": "Tasks/T-001.4 Install & Test litellm-proxy Docker Image.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Roadmap"
+              "title": "T-001.4 Install & Test litellm-proxy Docker Image"
+            }
+          },
+          {
+            "id": "d0ee07167289cd0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Roadmap.md",
+                "file": "02-Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +181,13 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,43 +200,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f30add80faa7a05",
+  "active": "d0ee07167289cd0e",
   "lastOpenFiles": [
-    "00-Project-Home.md",
-    "04-Data-Inventory/B2-layout.md",
+    "Tasks/T-001.4 Install & Test litellm-proxy Docker Image.md",
+    "Tasks/T-001.3.01 Add Docker to VM deployment.md",
+    "Tasks/T-001.3 Configure Docker on VPN.md",
+    "Tasks/T-001.2 Configure Tailscale VPN.md",
+    "Tasks/T-001.1 Initiate VPS Service.md",
+    "Tasks/T-003 Define video, clip, run, and consent metadata schemas.md",
+    "Tasks/T-004 Inventory 20 source videos using ffprobe metadata extraction.md",
     "Tasks/T-002 Create B2 storage-layout document and artifact naming policy.md",
-    "Tasks/T-001 Create Git repository and baseline project README.md",
-    "README.md",
-    "03-Data-Governance:/Rights-consent-policy.md",
-    "02-Architecture/Annotation-architecture.md",
-    "02-Architecture/Compute-architecture.md",
-    "02-Architecture/Security-and-access.md",
-    "02-Architecture/Agent-architecture.me",
-    "02-Architecture/Data-architecture.md",
-    "02-Architecture/System-architecture.md",
-    "02-Backlog.md",
+    "Tasks/T-001.5 Build SPOPS + age Secrets Management.md",
     "01-Roadmap.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "09-Infrastructure/SOPS + age Secrets Setup Guide (macOS Big Sur).md",
+    "Tasks/T-001 Create Git repository and baseline project README.md",
+    "04-Data-Inventory/B2-layout.md",
+    "00-Project-Home.md",
+    "02-Backlog.md",
+    "Observability Layers for OpenRouter or LiteLLM.md",
+    "Screen Shot 2026-09-27 at 5.46.51 PM.png",
+    "Screen Shot 2026-09-27 at 5.29.13 PM 1.png",
+    "Screen Shot 2026-09-27 at 5.29.13 PM.png",
+    "Screen Shot 2026-09-27 at 5.41.17 PM.png",
+    "README.md",
+    "09-Infrastructure/Docker-images.md",
+    "05-Video-Pipeline/FFprobe-and-inventory.md",
+    "08-Agentic-System/PydanticAI-agents.md",
+    "04-Data-Inventory/Dataset-splits.md",
+    "01-Planning/Budget-and-cost-model.md",
+    "01-Planning/Success-criteria.md",
+    "01-Planning/Skills-roadmap.md",
+    "01-Planning/Project-charter.md",
+    "09-Infrastructure/Secrets-and-access.md",
+    "02-Architecture/Agent-architecture.me",
     "07-Annotation:",
     " 07-Annotation:",
-    "01-Planning/Skills-roadmap.md",
-    "01-Planning/Success-criteria.md",
-    "01-Planning/Glossary.md",
-    "01-Planning/ Skills-roadmap.md",
-    "01-Planning/Budget-and-cost-model.md",
-    "01-Planning/ Success-criteria.md",
-    "01-Planning/Project-charter.md",
-    "01-Planning/__BLANK copy 4.md",
-    "01-Planning/__BLANK copy 3.md",
-    "01-Planning/__BLANK copy 2.md",
-    "01-Planning/__BLANK copy.md",
-    "01-Planning/__BLANK.md",
-    "__BLANK.md",
     "03-Data-Governance:",
     " 03-Data-Governance:",
     "untitled folder",
     "99-Templates:",
-    "12-Portfolio:",
-    " 12-Portfolio:",
-    "11-Meetings-and-Reviews:"
+    "12-Portfolio:"
   ]
 }
