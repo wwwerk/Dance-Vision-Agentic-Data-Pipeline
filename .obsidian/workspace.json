@@ -172,7 +172,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +195,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0ee07167289cd0e",
+  "active": "749d3176b4e4f971",
   "lastOpenFiles": [
     "Tasks/T-001.4 Install & Test litellm-proxy Docker Image.md",
     "Tasks/T-001.3.01 Add Docker to VM deployment.md",
